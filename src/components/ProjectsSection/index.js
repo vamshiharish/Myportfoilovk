@@ -24,7 +24,7 @@ const projectsList = [
   },
   {
     id:4,
-    name:"bingo Game",
+    name:"Bingo Game",
     imgUrl: "bingogame.png",
     liveUrl:"https://github.com/vamshiharish/Bingo-Game",
     githubUrl:"https://github.com/vamshiharish/Bingo-Game",
