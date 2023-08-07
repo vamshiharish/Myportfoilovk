@@ -20,7 +20,7 @@ const FooterSection = () => (
           </a>
           <a
             target="_blank"
-            href="mailto: swethapaleti555@gmail.com"
+            href="mailto: vamshiharish777@gmail.com"
             rel="noreferrer"
           >
             <FaEnvelope size={30} className="rounded-lg mx-2 text-xs transform transition duration-500 hover:scale-110 hover:text-white-500 ease-in-out"/>
