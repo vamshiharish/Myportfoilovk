@@ -18,21 +18,21 @@ const projectsList = [
   {
     id:3,
     name:"Twitter API Clone",
-    imgUrl: "twitterapi.png",
+    imgUrl: "twitterapi.PNG",
     liveUrl:"https://github.com/vamshiharish/twitter-api.git",
     githubUrl:"https://github.com/vamshiharish/twitter-api.git",
   },
   {
     id:4,
-    name:"bingo Game",
-    imgUrl: "bingogame.png",
+    name:"Bingo Game",
+    imgUrl: "Bingogame.PNG",
     liveUrl:"https://github.com/vamshiharish/Bingo-Game",
     githubUrl:"https://github.com/vamshiharish/Bingo-Game",
   },
   {
     id:5,
     name:"Food Munch",
-    imgUrl: "foodmanch.png",
+    imgUrl: "foodmanch.PNG",
     liveUrl:"https://onlinefood12.ccbp.tech/",
     githubUrl:"https://github.com/vamshiharish/Food-manch",
   }
