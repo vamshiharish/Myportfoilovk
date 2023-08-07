@@ -106,6 +106,12 @@ class NavBar extends Component {
                         About
                       </a>
                       <a
+                        href="#Certifications"
+                        className="transition-colors duration-700 hover:text-blue-600 text-black px-3 py-2 text-base font-medium"
+                      >
+                        Certificates
+                      </a>
+                      <a
                         href="#projects"
                         className="transition-colors duration-700 hover:text-blue-600 text-black px-3 py-2 text-base font-medium"
                       >
