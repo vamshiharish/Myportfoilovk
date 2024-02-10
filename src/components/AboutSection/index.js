@@ -17,7 +17,7 @@ const AboutSection = () => (
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://github.com/vamshiharish"
+            href="https://www.linkedin.com/in/vamshi-krishna77/"
             
           >
             <FaLinkedin size={30} className="rounded-lg mx-2 text-xs transform transition duration-500 hover:scale-110 hover:text-white-500 ease-in-out"/>
@@ -25,7 +25,7 @@ const AboutSection = () => (
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://www.linkedin.com/in/vamshi-krishna77/"
+            href="https://github.com/vamshiharish"
           >
             <FaGithub size={30} className="rounded-lg mx-2 text-xs transform transition duration-500 hover:scale-110 hover:text-white-500 ease-in-out"/>
           </a>
