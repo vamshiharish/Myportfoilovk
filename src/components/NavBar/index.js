@@ -159,7 +159,7 @@ class NavBar extends Component {
                 Contact
               </a>
               <a
-                href="Resume.pdf" target="_blank"
+                href="Vamshi Krishna Thatikonda (CV).pdf" target="_blank"
                 className="bg-gray-900 text-gray-300 hover:bg-gray-700 hover:text-white block rounded-md px-3 py-2 text-base font-medium"
               >
                 Download CV
