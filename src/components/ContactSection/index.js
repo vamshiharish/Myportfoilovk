@@ -13,7 +13,7 @@ const ContactSection = () => (
                 <p className="py-6">Submit the form below to get in touch with me</p>
             </div>
             <div className="flex justify-center items-center">
-                <form action="https://getform.io/f/f848aaae-5edf-4975-b58d-b2bd8de00a1f" method="POST" className="flex flex-col w-full md:w-1/2">
+                <form action="https://getform.io/f/lbjkjeya" method="POST" className="flex flex-col w-full md:w-1/2">
                 <input type="text" name="name" placeholder="Enter your Name" className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"/>
                 <input type="text" name="email" placeholder="Enter your Email" className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none my-4"/>
                 <textarea name="message" rows="10" placeholder="Enter your Message" className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"></textarea>
